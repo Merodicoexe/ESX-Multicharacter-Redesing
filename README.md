@@ -43,9 +43,9 @@ Ensure these resources are installed and running:
 ## 🖼 Screenshots
 
 * **No Ban**
-  [https://imgur.com/c3UNcRm.png](https://imgur.com/c3UNcRm.png)
+  ![https://imgur.com/c3UNcRm.png](https://imgur.com/c3UNcRm.png)
 
 * **Banned Character**
-  [https://imgur.com/tKdlETO.png](https://imgur.com/tKdlETO.png)
+  ![https://imgur.com/tKdlETO.png](https://imgur.com/tKdlETO.png)
 
 ---
